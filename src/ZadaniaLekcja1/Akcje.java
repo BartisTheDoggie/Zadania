@@ -1,3 +1,5 @@
+package ZadaniaLekcja1;
+
 public class Akcje {
     public static void main(String[] args) {
 

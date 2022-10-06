@@ -1,3 +1,5 @@
+package ZadaniaLekcja1;
+
 public class Ankieta {
     public static void main(String[] args) {
         int ankietowani = 12467;

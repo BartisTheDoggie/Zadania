@@ -1,3 +1,5 @@
+package ZadaniaLekcja1;
+
 public class Imiona {
     public static void main(String[] args) {
 

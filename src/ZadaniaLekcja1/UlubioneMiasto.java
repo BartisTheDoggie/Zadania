@@ -1,3 +1,5 @@
+package ZadaniaLekcja1;
+
 import java.util.Scanner;
 
 public class UlubioneMiasto {
